@@ -1,0 +1,107 @@
+[
+  {
+    "consulta": "Argumento de la película The Delicious Little Devil (1919)",
+    "esperado": "movie_000264",
+    "hit_at_k": true,
+    "ids": [
+      "movie_000264",
+      "movie_000264",
+      "movie_000264",
+      "movie_000280",
+      "movie_001403",
+      "movie_000280"
+    ],
+    "distancias": [
+      0.19503259658813477,
+      0.2154228687286377,
+      0.2165965437889099,
+      0.3492494821548462,
+      0.34957003593444824,
+      0.354486882686615
+    ]
+  },
+  {
+    "consulta": "Argumento de la película The Law of Men (1919)",
+    "esperado": "movie_000280",
+    "hit_at_k": true,
+    "ids": [
+      "movie_000280",
+      "movie_000280",
+      "movie_000264",
+      "movie_000264",
+      "movie_000264",
+      "movie_005355"
+    ],
+    "distancias": [
+      0.1888178586959839,
+      0.19398736953735352,
+      0.30978548526763916,
+      0.33085793256759644,
+      0.3334677219390869,
+      0.35183316469192505
+    ]
+  },
+  {
+    "consulta": "Argumento de la película Mama's Affair (1921)",
+    "esperado": "movie_000397",
+    "hit_at_k": true,
+    "ids": [
+      "movie_000397",
+      "movie_000397",
+      "movie_000264",
+      "movie_000264",
+      "movie_001241",
+      "movie_008102"
+    ],
+    "distancias": [
+      0.18903028964996338,
+      0.2063913345336914,
+      0.3282221555709839,
+      0.34149760007858276,
+      0.35202109813690186,
+      0.352134108543396
+    ]
+  },
+  {
+    "consulta": "Argumento de la película London After Midnight (1927)",
+    "esperado": "movie_000648",
+    "hit_at_k": true,
+    "ids": [
+      "movie_000648",
+      "movie_000648",
+      "movie_000648",
+      "movie_000844",
+      "movie_001992",
+      "movie_001449"
+    ],
+    "distancias": [
+      0.20754671096801758,
+      0.2113422155380249,
+      0.21466654539108276,
+      0.3671071529388428,
+      0.3787184953689575,
+      0.37887871265411377
+    ]
+  },
+  {
+    "consulta": "Argumento de la película Seven Footprints to Satan (1929)",
+    "esperado": "movie_000844",
+    "hit_at_k": true,
+    "ids": [
+      "movie_000844",
+      "movie_000648",
+      "movie_000648",
+      "movie_000648",
+      "movie_000264",
+      "movie_006893"
+    ],
+    "distancias": [
+      0.19302332401275635,
+      0.3515046238899231,
+      0.3521718978881836,
+      0.35598528385162354,
+      0.36795270442962646,
+      0.36968111991882324
+    ]
+  }
+]

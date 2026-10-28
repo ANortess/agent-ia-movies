@@ -1,0 +1,9 @@
+{
+  "documentos_corpus": 200,
+  "fragmentos": 584,
+  "indexacion_conectada": true,
+  "agente_compilado": true,
+  "ejemplos_ejecutados": 6,
+  "turnos_memoria_ejecutados": 2,
+  "revision_factual_manual": "pendiente"
+}

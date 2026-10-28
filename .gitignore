@@ -1,0 +1,10 @@
+# Secretos y entorno local
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+chroma_db/
+# Los datos se distribuirán según su licencia; conservar instrucciones.
+data/*

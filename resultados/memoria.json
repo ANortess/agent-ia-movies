@@ -1,0 +1,186 @@
+[
+  {
+    "pregunta": "¿De qué trata The Delicious Little Devil (1919)?",
+    "respuesta": "*The Delicious Little Devil* (1919) es una comedia dramática que sigue la historia de Mary McGuire, una joven de clase trabajadora que vive en un conventillo de Nueva York y mantiene a su familia [F1, F2]. Para conseguir empleo como anfitriona y bailarina en un centro nocturno llamado Peach Tree Inn, Mary se hace pasar por la famosa bailarina Gloria du Moine [F2, F3]. \n\nEn el local, un joven millonario llamado Jimmy Calhoun se enamora de ella [F3]. Su padre organiza una cena privada con la esperanza de que Gloria cometa algún error que desanime a su hijo, mientras que un duque europeo involucrado en escándalos con la verdadera bailarina también acude al lugar [F1, F3]. Tras varios enfrentamientos y malentendidos que involucran al duque, a Jimmy y la intervención de la ley, el padre de Jimmy termina aceptando y da su bendición para que su hijo se case con Mary [F1].",
+    "consulta_recuperacion": "¿De qué trata The Delicious Little Devil (1919)?",
+    "fuentes": [
+      {
+        "label": "F1",
+        "origin": "American",
+        "title": "The Delicious Little Devil",
+        "year": 1919,
+        "chunk_index": 2,
+        "source": "https://en.wikipedia.org/wiki/The_Delicious_Little_Devil",
+        "director": "Robert Z. Leonard",
+        "record_id": "movie_000264",
+        "genre": "comedy drama",
+        "distance": 0.20722860097885132,
+        "text": "Title: The Delicious Little Devil\nYear: 1919\nPlot:\nAt sunrise, the dinner party guests are still at the Peach Tree Inn, sleeping off the drinks they consumed during the evening. Gloria/Mary wakes up and hurries upstairs to her lavish private suite. The duke also wakes up and follows her, and Jimmy follows him. Jimmy and the duke get into a fight, and the duke sends Jimmy tumbling down the staircase.\nMary runs outside, gets into a car and heads for her family's tenement apartment in New York City. The duke and Jimmy follow her separately in their own cars. The duke arrives first, follows Mary up the stairs to the apartment and forces his way in. He grabs Mary and tries to kiss her. Jimmy arrives and engages the duke in another fight. A detective arrives and apprehends the duke for deportation to Europe on accusations of being a swindler. Jimmy's father arrives, notes Mary's humble surroundings and grants his blessing for Jimmy to marry her."
+      },
+      {
+        "label": "F2",
+        "source": "https://en.wikipedia.org/wiki/The_Delicious_Little_Devil",
+        "year": 1919,
+        "title": "The Delicious Little Devil",
+        "genre": "comedy drama",
+        "record_id": "movie_000264",
+        "chunk_index": 0,
+        "director": "Robert Z. Leonard",
+        "origin": "American",
+        "distance": 0.21820837259292603,
+        "text": "Title: The Delicious Little Devil\nYear: 1919\nPlot:\nMary McGuire (Mae Murray) is a working-class young girl who lives in a New York tenement and supports her mother and her shiftless father and uncle.\nTwo items in the March 27, 1919 edition of The New York Star catch her attention. The first is a news item about the famous dancer Gloria du Moine going into hiding over a scandal involving her relationship with the Duke de Sauterne. (This was Murray in a thinly disguised portrayal obviously mimicking fellow real life dancer/star Gaby Deslys who had an affair with the King of Portugal before World War I). The second is a classified ad for the Peach Tree Inn, a nightspot that aims to be the \"snappiest roadhouse this side of Monte Carlo.\" The Peach Tree's ad seeks a female hostess and dancer: \"A Good Future For A Girl With A Past.\"\nMary applies for the job. To help cinch the deal, Mary tells Peach Tree manager Larry McKean (William V. Mong) that she's really Gloria du Moine. Larry asks her why she's dressed so shabbily. Mary replies that her servant absconded with all of her clothing, leaving her to wear the servant's clothes."
+      },
+      {
+        "label": "F3",
+        "chunk_index": 1,
+        "title": "The Delicious Little Devil",
+        "year": 1919,
+        "record_id": "movie_000264",
+        "genre": "comedy drama",
+        "origin": "American",
+        "director": "Robert Z. Leonard",
+        "source": "https://en.wikipedia.org/wiki/The_Delicious_Little_Devil",
+        "distance": 0.22563672065734863,
+        "text": "Title: The Delicious Little Devil\nYear: 1919\nPlot:\nMary—or rather, Gloria—gets the job, and the Peach Tree Inn promotes its grand opening night, featuring Gloria du Moine. In the audience for Gloria du Moine's Peach Tree opening night is Jimmy Calhoun (Rudolph Valentino), scion of the millionaire contractor Michael Calhoun (Edward Jobson). The young Calhoun meets Gloria and finds her enchanting. He tells his father he'd like to propose to her. Michael Calhoun arranges a small, private dinner party at the Peach Tree Inn in honor of Gloria. The elder Calhoun hopes that Gloria will make some sort of faux pas that will discourage his son from seeking her hand in marriage.\nMeanwhile, the Duke de Sauterne (Bertram Grassby) has arrived in New York from Europe and noted the press announcements touting Gloria du Moine's performances at the Peach Tree Inn. The duke sets out to see her at the roadhouse, and his arrival coincides with Michael Calhoun's dinner party. The duke is escorted into Calhoun's private room. He gives no indication that Gloria du Moine is an imposter."
+      },
+      {
+        "label": "F4",
+        "record_id": "movie_000280",
+        "director": "Fred Niblo",
+        "title": "The Law of Men",
+        "year": 1919,
+        "origin": "American",
+        "genre": "drama",
+        "chunk_index": 1,
+        "source": "https://en.wikipedia.org/wiki/The_Law_of_Men",
+        "distance": 0.35615265369415283,
+        "text": "Title: The Law of Men\nYear: 1919\nPlot:\n. She accepts, and just after the ceremony Denis is arrested for the murder of Keene. At the trial Benton Wade, motivated also by his hatred of the spoiler of his own home, makes an impassioned defense of the innocent young man, but fails. Benton then becomes a victim of fear as Laura traces step by step his guilt for the crime and confronts him with the evidence. At the sentencing hearing Benton confesses his guilt and then drinks poison, leaving the young artist and his devoted wife whose intelligence saved him."
+      },
+      {
+        "label": "F5",
+        "origin": "American",
+        "genre": "drama",
+        "title": "The Law of Men",
+        "chunk_index": 0,
+        "year": 1919,
+        "director": "Fred Niblo",
+        "record_id": "movie_000280",
+        "source": "https://en.wikipedia.org/wiki/The_Law_of_Men",
+        "distance": 0.3639600872993469,
+        "text": "Title: The Law of Men\nYear: 1919\nPlot:\nAs described in a film magazine,[3] Laura Dayne (Bennett), an ambitious young sculptress courted by neighboring young artist Denis Connors (Welch), has limited contact with the social world and knows little of the \"law of men\" and so unsuspicious when decadent architect Jamison Keene (MacDonald) lures her to the Tarrytown Inn one night with a promise to consummate her dream of having her work in a municipal building. Keene had recently had the artist paint a miniature of Mildred Wade (Matthews), the foolish wife of Laura's dear friend Benton Wade (Robson). Laura goes to the Tarrytown Inn and into the trap set for her. Keene uses all of his disarming wiles in vain as Laura puts up such a struggle that the Inn management forces Keene to release her. Overwhelmed by the sense of her own folly, she goes to the artist and tells her story. In fury Denis goes to the Inn, but is ejected by the house detectives for using threatening language. He returns to his rooms and suggests marriage as the only way to protect Laura. She accepts, and just after the ceremony Denis is arrested for the murder of Keene"
+      },
+      {
+        "label": "F6",
+        "origin": "American",
+        "year": 1932,
+        "director": "Edward Sutherland, Busby Berkeley",
+        "chunk_index": 1,
+        "genre": "comedy",
+        "source": "https://en.wikipedia.org/wiki/Sky_Devils",
+        "record_id": "movie_001403",
+        "title": "Sky Devils",
+        "distance": 0.3683735728263855,
+        "text": "Title: Sky Devils\nYear: 1932\nPlot:\nAfter stowing away on a ship, they find out they are on a troop ship with Army Air Corps pilots going to France. Wilkie and Mitchell pretend they want to fly and are sent to train at an American aviation field. Doing their best to not become pilots, while on guard duty, Wilkie competes with Sgt. Hogan for the attentions of Fifi (Yola d'Avril), a French performer. After a dustup at a nightclub, the two rivals make a quick exit, hiding in a car driven by Mary Way (Ann Dvorak). Startled by the men, she crashes, but all are unharmed. Wilkie and Hogan escort her to an inn for the evening. In the morning, Wilkie has breakfast with Mary and cons Hogan into fixing her car.\nMilitary police looking for the two and come and arrest them, as well as Mary thought to be a spy. Wilkie, Hogan and Mary escape in an aircraft, but land in enemy territory and are captured. Accidentally releasing two bombs, they bomb a German munitions depot. The Air Corps colonel (Billy Bevan) sends a squadron to rescue the trio, with Mitchell scaring the Germans by his inept maneuvers."
+      }
+    ],
+    "control_citas": {
+      "labels_valid": true,
+      "invalid_labels": [],
+      "has_citations": true,
+      "factual_support": "pendiente de revisión"
+    },
+    "sesion": "memoria-ba5d8f759423403691d092a24e4f124a"
+  },
+  {
+    "pregunta": "¿En qué año se estrenó esa película?",
+    "respuesta": "No hay preguntas nuevas en este turno. Si necesitas más detalles sobre *The Delicious Little Devil* (1919) u otra película, indícalo.",
+    "consulta_recuperacion": "The Delicious Little Devil (1919)",
+    "fuentes": [
+      {
+        "label": "F1",
+        "chunk_index": 2,
+        "record_id": "movie_000264",
+        "title": "The Delicious Little Devil",
+        "source": "https://en.wikipedia.org/wiki/The_Delicious_Little_Devil",
+        "year": 1919,
+        "genre": "comedy drama",
+        "director": "Robert Z. Leonard",
+        "origin": "American",
+        "distance": 0.20269590616226196,
+        "text": "Title: The Delicious Little Devil\nYear: 1919\nPlot:\nAt sunrise, the dinner party guests are still at the Peach Tree Inn, sleeping off the drinks they consumed during the evening. Gloria/Mary wakes up and hurries upstairs to her lavish private suite. The duke also wakes up and follows her, and Jimmy follows him. Jimmy and the duke get into a fight, and the duke sends Jimmy tumbling down the staircase.\nMary runs outside, gets into a car and heads for her family's tenement apartment in New York City. The duke and Jimmy follow her separately in their own cars. The duke arrives first, follows Mary up the stairs to the apartment and forces his way in. He grabs Mary and tries to kiss her. Jimmy arrives and engages the duke in another fight. A detective arrives and apprehends the duke for deportation to Europe on accusations of being a swindler. Jimmy's father arrives, notes Mary's humble surroundings and grants his blessing for Jimmy to marry her."
+      },
+      {
+        "label": "F2",
+        "year": 1919,
+        "origin": "American",
+        "record_id": "movie_000264",
+        "genre": "comedy drama",
+        "chunk_index": 0,
+        "director": "Robert Z. Leonard",
+        "source": "https://en.wikipedia.org/wiki/The_Delicious_Little_Devil",
+        "title": "The Delicious Little Devil",
+        "distance": 0.20827817916870117,
+        "text": "Title: The Delicious Little Devil\nYear: 1919\nPlot:\nMary McGuire (Mae Murray) is a working-class young girl who lives in a New York tenement and supports her mother and her shiftless father and uncle.\nTwo items in the March 27, 1919 edition of The New York Star catch her attention. The first is a news item about the famous dancer Gloria du Moine going into hiding over a scandal involving her relationship with the Duke de Sauterne. (This was Murray in a thinly disguised portrayal obviously mimicking fellow real life dancer/star Gaby Deslys who had an affair with the King of Portugal before World War I). The second is a classified ad for the Peach Tree Inn, a nightspot that aims to be the \"snappiest roadhouse this side of Monte Carlo.\" The Peach Tree's ad seeks a female hostess and dancer: \"A Good Future For A Girl With A Past.\"\nMary applies for the job. To help cinch the deal, Mary tells Peach Tree manager Larry McKean (William V. Mong) that she's really Gloria du Moine. Larry asks her why she's dressed so shabbily. Mary replies that her servant absconded with all of her clothing, leaving her to wear the servant's clothes."
+      },
+      {
+        "label": "F3",
+        "source": "https://en.wikipedia.org/wiki/The_Delicious_Little_Devil",
+        "chunk_index": 1,
+        "genre": "comedy drama",
+        "year": 1919,
+        "director": "Robert Z. Leonard",
+        "origin": "American",
+        "title": "The Delicious Little Devil",
+        "record_id": "movie_000264",
+        "distance": 0.21785855293273926,
+        "text": "Title: The Delicious Little Devil\nYear: 1919\nPlot:\nMary—or rather, Gloria—gets the job, and the Peach Tree Inn promotes its grand opening night, featuring Gloria du Moine. In the audience for Gloria du Moine's Peach Tree opening night is Jimmy Calhoun (Rudolph Valentino), scion of the millionaire contractor Michael Calhoun (Edward Jobson). The young Calhoun meets Gloria and finds her enchanting. He tells his father he'd like to propose to her. Michael Calhoun arranges a small, private dinner party at the Peach Tree Inn in honor of Gloria. The elder Calhoun hopes that Gloria will make some sort of faux pas that will discourage his son from seeking her hand in marriage.\nMeanwhile, the Duke de Sauterne (Bertram Grassby) has arrived in New York from Europe and noted the press announcements touting Gloria du Moine's performances at the Peach Tree Inn. The duke sets out to see her at the roadhouse, and his arrival coincides with Michael Calhoun's dinner party. The duke is escorted into Calhoun's private room. He gives no indication that Gloria du Moine is an imposter."
+      },
+      {
+        "label": "F4",
+        "chunk_index": 0,
+        "title": "The Law of Men",
+        "origin": "American",
+        "record_id": "movie_000280",
+        "genre": "drama",
+        "source": "https://en.wikipedia.org/wiki/The_Law_of_Men",
+        "director": "Fred Niblo",
+        "year": 1919,
+        "distance": 0.34826451539993286,
+        "text": "Title: The Law of Men\nYear: 1919\nPlot:\nAs described in a film magazine,[3] Laura Dayne (Bennett), an ambitious young sculptress courted by neighboring young artist Denis Connors (Welch), has limited contact with the social world and knows little of the \"law of men\" and so unsuspicious when decadent architect Jamison Keene (MacDonald) lures her to the Tarrytown Inn one night with a promise to consummate her dream of having her work in a municipal building. Keene had recently had the artist paint a miniature of Mildred Wade (Matthews), the foolish wife of Laura's dear friend Benton Wade (Robson). Laura goes to the Tarrytown Inn and into the trap set for her. Keene uses all of his disarming wiles in vain as Laura puts up such a struggle that the Inn management forces Keene to release her. Overwhelmed by the sense of her own folly, she goes to the artist and tells her story. In fury Denis goes to the Inn, but is ejected by the house detectives for using threatening language. He returns to his rooms and suggests marriage as the only way to protect Laura. She accepts, and just after the ceremony Denis is arrested for the murder of Keene"
+      },
+      {
+        "label": "F5",
+        "chunk_index": 1,
+        "source": "https://en.wikipedia.org/wiki/The_Law_of_Men",
+        "title": "The Law of Men",
+        "year": 1919,
+        "genre": "drama",
+        "director": "Fred Niblo",
+        "origin": "American",
+        "record_id": "movie_000280",
+        "distance": 0.34838664531707764,
+        "text": "Title: The Law of Men\nYear: 1919\nPlot:\n. She accepts, and just after the ceremony Denis is arrested for the murder of Keene. At the trial Benton Wade, motivated also by his hatred of the spoiler of his own home, makes an impassioned defense of the innocent young man, but fails. Benton then becomes a victim of fear as Laura traces step by step his guilt for the crime and confronts him with the evidence. At the sentencing hearing Benton confesses his guilt and then drinks poison, leaving the young artist and his devoted wife whose intelligence saved him."
+      },
+      {
+        "label": "F6",
+        "genre": "comedy",
+        "chunk_index": 1,
+        "source": "https://en.wikipedia.org/wiki/Sky_Devils",
+        "director": "Edward Sutherland, Busby Berkeley",
+        "year": 1932,
+        "origin": "American",
+        "title": "Sky Devils",
+        "record_id": "movie_001403",
+        "distance": 0.3630349636077881,
+        "text": "Title: Sky Devils\nYear: 1932\nPlot:\nAfter stowing away on a ship, they find out they are on a troop ship with Army Air Corps pilots going to France. Wilkie and Mitchell pretend they want to fly and are sent to train at an American aviation field. Doing their best to not become pilots, while on guard duty, Wilkie competes with Sgt. Hogan for the attentions of Fifi (Yola d'Avril), a French performer. After a dustup at a nightclub, the two rivals make a quick exit, hiding in a car driven by Mary Way (Ann Dvorak). Startled by the men, she crashes, but all are unharmed. Wilkie and Hogan escort her to an inn for the evening. In the morning, Wilkie has breakfast with Mary and cons Hogan into fixing her car.\nMilitary police looking for the two and come and arrest them, as well as Mary thought to be a spy. Wilkie, Hogan and Mary escape in an aircraft, but land in enemy territory and are captured. Accidentally releasing two bombs, they bomb a German munitions depot. The Air Corps colonel (Billy Bevan) sends a squadron to rescue the trio, with Mitchell scaring the Germans by his inept maneuvers."
+      }
+    ],
+    "control_citas": {
+      "labels_valid": true,
+      "invalid_labels": [],
+      "has_citations": false,
+      "factual_support": "pendiente de revisión"
+    },
+    "sesion": "memoria-ba5d8f759423403691d092a24e4f124a"
+  }
+]
